@@ -1,0 +1,53 @@
+/* styles.css */
+
+body {
+   /* padding-top: 4.5rem;*/
+    background-image: url('background-image.jpg'); /* Replace 'background-image.jpg' with your image file path */
+    background-size: cover;
+    background-position: center;
+}
+
+header {
+    background-color: rgba(255, 255, 255, 0.8); /* Adding a semi-transparent white background to the header */
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.8); /* Adding a semi-transparent white background to the content area */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+footer.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.8); /* Adding a semi-transparent white background to the footer */
+    padding: 1rem 0;
+}
+/* example.css */
+
+/* Styling the navbar background with a gradient */
+.navbar {
+    background: linear-gradient(to right, #666666, #D3D3D3); /* Change colors as needed */
+}
+
+/* Styling the navbar brand text */
+.navbar-brand {
+    color: white; /* Change text color as needed */
+}
+
+/* Styling the active nav link */
+.navbar-nav .nav-item.active .nav-link {
+    color: white; /* Change text color as needed */
+}
+
+/* Styling the nav links */
+.navbar-nav .nav-link {
+    color: white; /* Change text color as needed */
+}
+
+/* Styling the footer background with a solid color */
+.footer {
+    background-color: #333; /* Change color as needed */
+    color: white; /* Change text color as needed */
+}
