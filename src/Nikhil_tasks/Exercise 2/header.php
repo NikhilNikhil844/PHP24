@@ -19,6 +19,10 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
+                            <a class="nav-link" href="../Exercise1.php">Exercise 1</a>
+                            <!-- use ../ to go one level behind the source folder-->
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link" href="Home.php">Home</a>
                         </li>
                         <li class="nav-item">
