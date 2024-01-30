@@ -1,6 +1,6 @@
 <?php 
 $title = "Abstract HUB";
-
+/* This is an Example on how to enter custom titles for every page*/
 include "header.php"?>
 
  <div class="container mt-5">
