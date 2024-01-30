@@ -1,4 +1,8 @@
-<?php include "header.php" ?>
+<?php 
+
+$title = "About US";
+
+include "header.php" ?>
 
 <div class="container mt-5">
     <h2>About Abstract Hub</h2>

@@ -1,4 +1,8 @@
-<?php include "header.php" ?>
+<?php 
+
+$title = "Services";
+
+include "header.php" ?>
 
 <div class="container mt-5">
     <h2>Our Services</h2>

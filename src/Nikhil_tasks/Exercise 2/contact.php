@@ -1,4 +1,8 @@
-<?php include "header.php" ?>
+<?php
+
+$title = "Contact US";
+
+include "header.php" ?>
 
 <div class="container mt-5">
     <h2>Contact Us</h2>
